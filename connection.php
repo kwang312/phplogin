@@ -1,8 +1,8 @@
 <?php
 
-$dbhost = "localhost";
-$dbuser = "root";
-$dbpass = "";
+$dbhost = "database-1.cjdclftyxl60.ap-southeast-1.rds.amazonaws.com";
+$dbuser = "admin";
+$dbpass = "quang123";
 $dbname = "login_sample_db";
 
 if(!$con = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname))
