@@ -20,5 +20,7 @@ session_start();
 
 	<br>
 	Hello, <?php echo $user_data['user_name']; ?>
+	<br>
+	Device <?php echo gethostname(); ?>
 </body>
 </html>
