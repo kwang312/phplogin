@@ -1,6 +1,6 @@
 <?php
 
-$dbhost = "mradb.cjdclftyxl60.ap-southeast-1.rds.amazonaws.com";
+$dbhost = "maria.cjdclftyxl60.ap-southeast-1.rds.amazonaws.com";
 $dbuser = "admin";
 $dbpass = "quang123";
 $dbname = "login_sample_db";
